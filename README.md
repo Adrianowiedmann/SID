@@ -1,2 +1,2 @@
 # SID
-Sistemas de Informação Distribuído
+SISTEMAS DE INFORMAÇÃO DISTRIBUÍDOS

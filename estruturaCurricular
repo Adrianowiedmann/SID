@@ -1,0 +1,47 @@
+{
+    "estruturaCurricular": [
+    {
+        "codigo": "6351/2",
+        "status": "Ativa",
+        "cargaHoraria":{
+            "cargaHoraria": {
+                "obrigatoriaMinima": 2640,
+                "optativaMinima": 1110,
+                "totalMinima": 3750,
+                "componenteEletivosMaxima": 360,
+                "periodoLetivoMinimo": 210,
+                "periodoLetivoMaximo": 450
+            }
+        },
+        "prazo": {
+            "minimo": 10,
+            "medio": 10,
+            "maximo": 20
+        }
+    },
+    {
+        "codigo": "6351/1",
+        "status": "Ativa",
+        "cargaHoraria":{
+            "cargaHoraria": {
+                "obrigatoriaMinima": 2640,
+                "optativaMinima": 1110,
+                "totalMinima": 3750,
+                "componenteEletivosMaxima": 360,
+                "periodoLetivoMinimo": 210,
+                "periodoLetivoMaximo": 450
+            }
+        },
+        "prazo": {
+            "minimo": 10,
+            "medio": 10,
+            "maximo": 20
+        }
+    },
+    {
+        "codigo": "6351/-2",
+        "status": "Ativa"
+    
+    }
+]
+}

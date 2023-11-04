@@ -1,0 +1,31 @@
+{
+    "_resourceType": "Curso",
+    "codigo": "6351/2",
+    "nome": "Engenharia de Redes de Comunicação",
+    "modalidade": "Presencial",
+    "grauAcademico": "Bacharelado",
+    "turno": "Diurno",
+    "sede": "Brasília",
+    "coordenador": {
+        "matricula": 0,
+        "nome": "VINICIUS PEREIRA GONCALVES"
+    },
+    "unidade": {
+        "codigo": "ENE",
+        "nome": "DEPTO ENGENHARIA ELETRICA"
+    },
+    "estruturaCurricular": [
+        {
+            "codigo": "6351/2",
+            "status": "Ativa"
+        },
+        {
+            "codigo": "6351/1",
+            "status": "Ativa"
+        },
+        {
+            "codigo": "6351/-2",
+            "status": "Ativa"
+        }
+    ]
+}

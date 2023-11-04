@@ -1,0 +1,22 @@
+{
+    "_resourceType" : "Aluno", 
+    "matricula" : "202066858",
+    "nome": "Alvaro Marcal de Araujo",
+    "ira" : 3.9337,
+    "dataNascimento": "09/03/2002",
+    "status" : "ativo",
+    "curriculo" : "6351/2",
+    "curso": "Engenharia de Redes de Comunicacao",
+    "periodoIngresso" : {
+        "ano":"2020",
+        "periodo": "2"
+
+
+    }
+
+
+
+
+
+
+}
